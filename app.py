@@ -14,9 +14,6 @@ from langchain_experimental.agents.agent_toolkits import create_pandas_dataframe
 
 from loaders import *
 
-
-# OPENAI_API_KEY = sk-proj-EDEmoxQXtiQTI7BrxirVKZU4W_dYra20c15c8yyPWnvIL2P6h9WJTZ3arYDZ_MKo6xcCSFHeKqT3BlbkFJvL10xLIdvqt4uyH8Gq4NLg-A_mPp5ihcz6P-BbgkuNq7GpMNfRaT7aU1-Dc6sDMZJrKTHZ2LwA
-
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site', 'Youtube', 'Pdf', 'Csv', 'Txt'
 ]
